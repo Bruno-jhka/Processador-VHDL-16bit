@@ -40,7 +40,7 @@ O processador é composto pelos seguintes blocos principais:
     * Controle de direção (Input/Output) via registradores de configuração.
     * Implementação de *Latches* transparentes para estabilização de leitura externa.
 
-![Diagrama de Blocos](Assets\Diagrama.pdf)
+![Diagrama de Blocos](Diagrama.pdf)
 
 
 ---
@@ -81,7 +81,7 @@ Para validar o processador, desenvolvemos um programa em Assembly ("Running LED"
 
 ### Vídeo de Funcionamento no FPGA
 https://github.com/user-attachments/assets/669237f8-2cae-4e97-9ef1-a9e387253a78
-Assets\Teste_modulo.mp4
+
 
 
 ---
@@ -104,5 +104,6 @@ Assets\Teste_modulo.mp4
 5.  Para FPGA: Atribua os pinos (Pin Planner) de acordo com o manual da placa DE2 e utilize o **Programmer** para enviar o `.sof`.
 
 ---
+
 
 Feito com ☕ e VHDL por Bruno e Oscar.
