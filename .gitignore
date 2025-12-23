@@ -1,0 +1,38 @@
+# Ignorar pastas de compilação do Quartus
+db/
+incremental_db/
+simulation/modelsim/
+output_files/
+greybox_tmp/
+
+# Ignorar arquivos de backup e temporários
+*.bak
+*.qws
+*.ppf
+*.ddb
+*.csv
+*.cmp
+*.sip
+*.spd
+*.bsf
+*.f
+*.hdl
+*.dpf
+*.jdi
+*.pin
+*.pof
+*.sld
+*.smsg
+*.summary
+*.ttf
+*.done
+*.rpt
+
+# Manter apenas os fontes e o projeto
+!*.vhd
+!*.bdf
+!*.qpf
+!*.qsf
+!*.mif
+!*.vec
+!*.vwf
