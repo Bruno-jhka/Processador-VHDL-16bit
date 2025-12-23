@@ -83,16 +83,6 @@ Para validar o processador, desenvolvemos um programa em Assembly ("Running LED"
 https://github.com/user-attachments/assets/669237f8-2cae-4e97-9ef1-a9e387253a78
 
 
-
----
-
-## 📂 Estrutura do Repositório
-
-* `/src`: Códigos fonte VHDL (.vhd) de todos os componentes (ULA, Control Unit, Reg Bank, etc).
-* `/simulation`: Arquivos de simulação e Testbenches.
-* `/assembly`: Códigos fonte (.mif) dos programas de teste.
-* `/docs`: Diagramas e documentação auxiliar.
-
 ---
 
 ## 🚀 Como Executar
@@ -107,3 +97,4 @@ https://github.com/user-attachments/assets/669237f8-2cae-4e97-9ef1-a9e387253a78
 
 
 Feito com ☕ e VHDL por Bruno e Oscar.
+
